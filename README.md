@@ -19,3 +19,15 @@ Comparison Operators
 Logical Operators
 Math Object
 Return statements
+
+## Cusomization
+Buy In
+- How many chips to start with?
+Double or Nothing Option
+Show New Game buy in
+Winning Logic
+- What happens when you win?
+- Double or Nothing
+- Cash out chips?
+Use card images instead of numbers
+
